@@ -1,0 +1,22 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid:hover img{
+    opacity: 0.33;
+}
+
+h1{
+    margin:3%;
+}
+
+a:link{
+    color: aqua;
+}
+
+a:visited{
+    color: purple;
+}
+
